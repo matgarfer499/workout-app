@@ -1,0 +1,20 @@
+Base de datos.excalidraw
+# Archivos y directorios generados automáticamente
+*.pyc
+__pycache__/
+*.db
+*.sqlite3
+
+# Directorio virtualenv (si usas uno)
+venv/
+env/
+
+# Archivos de configuración local
+*.env
+.env/
+
+# Archivos de registro
+*.log
+
+# Archivos de usuario
+.DS_Store
