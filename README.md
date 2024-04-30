@@ -34,6 +34,8 @@ To be able to keep track of our tables and data we have to do the following:
 ```
 admin panel: `http://127.0.0.1:8000/admin/`
 
+You also have a route to view the api documentation: `http://127.0.0.1:8000/api/docs/`
+
 
 ## Release History
 
